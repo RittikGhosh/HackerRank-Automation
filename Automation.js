@@ -1,4 +1,9 @@
 // <------------Project on web Automation (Hacker rank)----------------->
+//to run use -
+// npm init -y
+// npm install minimist
+// npm install puppeteer 
+//node Automation.js --url=https://www.hackerrank.com  --config=config.json
 
 // Aim->
 
